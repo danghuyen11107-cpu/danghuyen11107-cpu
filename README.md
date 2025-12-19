@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Huyn
 
-<!--
-**danghuyen11107-cpu/danghuyen11107-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Aspiring Marketing & Communication Professional**  
+📍 Vietnam  
+💬 Interested in foreign languages, creative collaboration, and international work environments
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+- not infor
+- Passionate about:
+  - Creative project ideas
+  - Public speaking & teamwork
+  - Brainstorming + script writing
+- Goals:
+  - Become a successful & confident communicator
+  - Learn multiple languages (EN)
+
+---
+
+## 💼 Skills
+- Communication & persuasion
+- Teamwork & leadership balance
+- Active listening
+- Brainstorming ideas
+- PowerPoint presentation
+- English learning
+
+---
+
+## 📚 Exams & Focus
+- University entrance subjects:
+  - Math – Physics – English
+- Priority: competency test in **Math**
+- Study schedule preferences:
+  - Morning: school
+  - Evening: 7PM
